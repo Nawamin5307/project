@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("Hi");
         System.out.println("My name is Dew");
         System.out.println("How to push this work");
+        System.out.print("I want to pushing this work");
     }
 }
